@@ -1,0 +1,25 @@
+_repo: The-Perilous-Seat_67050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snedeker, Caroline Dale
+    gutenberg_agent_id: '54092'
+    url: http://www.gutenberg.org/2009/agents/54092
+description: ''
+gutenberg_issued: '2021-12-30'
+identifiers:
+  gutenberg: '67050'
+language: en
+pgterms:marc905: 20200414213857snedeker
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Mary Glenn Krause and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: "United States :Doubleday, Page & Company\r,1923."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Perilous Seat
+url: http://www.gutenberg.org/ebooks/67050
